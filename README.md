@@ -98,7 +98,7 @@ adapt to defender countermeasures.
 | Reconnaissance | Nmap, enum4linux-ng, rpcclient, crackmapexec |
 | Exploitation | smbclient, Netcat, PowerShell |
 | Network Analysis | Wireshark |
-| EDR (Phase 2) | Wazuh / LimaCharlie (Falcon when available) |
+| EDR (Phase 2) | Wazuh / OpenEDR (Falcon when available) |
 | SIEM (Phase 3) | Splunk / ELK |
 
 ## Write-Ups
